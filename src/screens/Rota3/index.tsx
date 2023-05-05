@@ -1,6 +1,6 @@
 import { lazy, Suspense } from 'react';
-import Componente4 from '../../components/Componente4';
 import { Link } from 'react-router-dom';
+import Componente4 from '../../components/Componente4';
 const Componente3 = lazy(() => import('../../components/Componente3'));
 
 function Rota3() {
