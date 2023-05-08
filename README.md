@@ -53,7 +53,7 @@ or
 yarn dev
 ```
 
-The server will start on `http://localhost:3000`. Changes to the code will be automatically reloaded in the browser.
+The server will start on `http://localhost:5173`. Changes to the code will be automatically reloaded in the browser.
 
 ### Production
 
@@ -71,19 +71,6 @@ yarn build
 
 The production-ready files will be generated in the `dist` folder.
 
-### Preview Production Build
-
-To preview the production build locally, run:
-
-```bash
-npm run serve
-```
-
-or
-
-```bash
-yarn serve
-```
 
 The server will start on `http://localhost:5000`.
 
