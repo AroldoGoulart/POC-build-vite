@@ -13,7 +13,7 @@ This repository contains a simple proof of concept (POC) demonstrating the capab
 
 ## Requirements
 
-- Node.js v12.0.0 or higher
+- Node.js V14.0.0 or higher
 - npm or yarn (latest version recommended)
 
 ## Installation
